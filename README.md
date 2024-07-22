@@ -20,8 +20,8 @@ This is a simple Java application that calculates the final balance of a savings
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/savings-account-calculator.git
-    cd savings-account-calculator
+    git clone https://github.com/Mark-Langston/Interest_Balance_Calculator.git
+    cd Interest_Balance_Calculator
     ```
 
 2. Compile the Java files:
